@@ -1,1 +1,1 @@
-This is a guide for a lot of othet things then just StikJIT
+This is a guide for a lot of other things then just StikJIT
