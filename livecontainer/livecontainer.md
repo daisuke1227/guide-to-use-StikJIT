@@ -1,6 +1,6 @@
 # How to Install LiveContainer
 
-1. Go to SideStore and follow the guide: [SideStore](https://sidestore.io/#get-started)
+1. Go to SideStore and follow the guide: [SideStoreGuide](https://sidestore.io/#get-started)
 2. Download the IPA for LiveContainer: [LC IPA](https://nightly.link/hugeBlack/LiveContainer/workflows/build/main/com.kdt.livecontainer.ipa.zip)
 3. Install it in SideStore, and you're done! Yay!
 
