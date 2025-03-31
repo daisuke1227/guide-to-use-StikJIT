@@ -19,4 +19,4 @@
 
 Download and Watch Video: [Video](https://github.com/daisuke1227/guide-to-use-StikJIT/releases/download/videos/AutoJITHomeScreen.mov)
 
-Credits to [Trey](https://github.com/TreyHam27) for the guide >~<
+Credits to [Trey](https://github.com/TreyHam27) and [Se2crid](https://github.com/se2crid) for the guide >~<
