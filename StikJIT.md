@@ -10,7 +10,7 @@
 
 # How to Install StikJIT (without SideStore)
 
-1. If you don’t want to use SideStore, you can use [Sideloadly](<https://sideloadly.io/>) (recommended) or [AltStore](<https://altstore.io/>) (not recommended).
+1. If you don’t want to use SideStore, you can use [Sideloadly](<https://sideloadly.io/>) (recommended) or [AltStore](<https://altstore.io/>)
 
 2. Get the IPA of StikJIT: [StikJIT](https://nightly.link/0-Blu/StikJIT/workflows/build_ipa/main/StikJit.ipa.zip).
 
