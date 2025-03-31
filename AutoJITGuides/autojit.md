@@ -1,4 +1,4 @@
-# AutoJIT Shortcut (Made By [Se2Crid](https://github.com/se2crid) and [Trey](https://github.com/TreyHam27)) and [) (iOS 18.2+)
+# AutoJIT Shortcut (Made By [Se2Crid](https://github.com/se2crid) and [Trey](https://github.com/TreyHam27)) (iOS 18.2+)
 https://www.icloud.com/shortcuts/d9b370acd4e34da592398d7c472721a4
 - Requires stikjit to work, see [StikJitGuide](https://github.com/daisuke1227/guide-to-use-StikJIT/blob/main/StikJIT.md) on how to install
 - Easily enable JIT for any App
