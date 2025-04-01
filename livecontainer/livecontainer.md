@@ -1,4 +1,10 @@
-# How to Install LiveContainer
+# What is LiveContainer?
+
+LiveContainer can Run iOS app without actually installing it!
+1. Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!), have multiple versions of an app installed and multiple data containers.
+2. When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.
+
+### How to Install LiveContainer
 
 1. Go to SideStore and follow the guide: [SideStoreGuide](https://sidestore.io/#get-started)
 2. Download the IPA for LiveContainer: [LC IPA](https://nightly.link/hugeBlack/LiveContainer/workflows/build/main/com.kdt.livecontainer.ipa.zip)
