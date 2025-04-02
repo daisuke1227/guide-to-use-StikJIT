@@ -2,7 +2,7 @@
 
 1. Get SideStore installed: go to [SideStore](<https://sidestore.io/>) and follow the instructions.
 
-2. It's recommended to just install StosVPN, as the WireGuard method sucks: [StosVPN](<https://testflight.apple.com/join/hBUbg4ZJ>).
+2. It's recommended to just install StosVPN, as the WireGuard method sucks: [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051).
 
 3. Get the IPA of StikJIT: [StikJIT](https://nightly.link/0-Blu/StikJIT/workflows/build_ipa/main/StikJit.ipa.zip).
 
