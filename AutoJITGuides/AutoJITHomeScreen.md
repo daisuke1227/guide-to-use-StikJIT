@@ -10,7 +10,7 @@
 
 2. Then press on the 3 dots on the top right to edit the shortcut
 
-3. Change the vpn to connect/disconnect to [StosVPN](https://testflight.apple.com/join/hBUbg4ZJ)
+3. Change the vpn to connect/disconnect to [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051)
 
 4. Then, tap on the text "App" of the fist shortcut module. Select the app you want to make the shortcut for. Then, press "Done" at the top right to save the edited shortcut.
 5. After changing it, add this shortcut to your home screen by sharing the shortcut and pressing add to home screen. You may set the app name and icon to the same as the app that you are creating the shortcut for. Upon pressing the homescreen shortcut, the linked app will automatically open with JIT.
