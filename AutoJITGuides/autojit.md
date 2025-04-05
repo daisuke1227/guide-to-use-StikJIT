@@ -14,4 +14,6 @@ https://www.icloud.com/shortcuts/d9b370acd4e34da592398d7c472721a4
 
 Credits to [Trey](https://github.com/TreyHam27) for the guide >~<
 
-![tutorial](https://raw.githubusercontent.com/daisuke1227/guide-to-use-StikJIT/refs/heads/main/AutoJITGuides/AutoJIT.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daisuke1227/guide-to-use-StikJIT/refs/heads/main/AutoJITGuides/AutoJIT.gif" height="600" alt="tutorial">
+</p>
